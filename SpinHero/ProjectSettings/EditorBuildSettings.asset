@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SK/SK_Scenes/SK_MainMenu.unity
+    guid: 7448f50b5dd57b242bff2acedb4e82d9
+  - enabled: 1
+    path: Assets/SK/SK_Scenes/SK_GameScene.unity
+    guid: 7752562608e7a51449500e0917a75ef9
+  - enabled: 1
+    path: Assets/SK/SK_Scenes/SK_GameOverScene.unity
+    guid: bb918879bbd16df46b1e383b7c08efcf
+  m_configObjects: {}
